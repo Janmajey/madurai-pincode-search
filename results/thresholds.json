@@ -1,0 +1,19 @@
+{
+  "ranges": [
+    [
+      0.05,
+      "exact"
+    ],
+    [
+      0.5,
+      "restricted"
+    ],
+    [
+      1.01,
+      "adaptive_post"
+    ]
+  ],
+  "base_nprobe": 16,
+  "min_matches": 40,
+  "coverage": 0.2
+}
